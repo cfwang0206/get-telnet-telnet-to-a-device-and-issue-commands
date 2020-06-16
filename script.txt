@@ -1,0 +1,20 @@
+!-- login  start
+
+Passwd@@
+enable
+enPasswd@@
+
+!-- login end
+
+!-- config script start 
+config t
+
+
+
+!-- config script end
+
+!-- Write confing and exit
+end
+wr
+
+exit
